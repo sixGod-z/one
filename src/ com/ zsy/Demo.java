@@ -11,5 +11,9 @@ public class Demo {
     public static void main(String[] args) {
         System.out.println("China");
         System.out.println("hihihihihi");
+ System.out.println("hihihihihi");
+ System.out.println("hihihihihi");
+ System.out.println("hihihihihi");
+ System.out.println("hihihihihi");
     }
 }
